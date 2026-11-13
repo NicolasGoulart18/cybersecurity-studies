@@ -21,3 +21,5 @@
 
 #
 - XSS (Cross-site Scripting): Vulnerabilidade que permite a execução de comandos JavaScript não autorizados (refletidos ou armazenados).
+
+- Ao encontrar um CVE em um relatório de segurança, utilize o CVSS para ajustar a nota de acordo com a realidade do seu ambiente específico, em vez de considerar apenas a pontuação genérica.
