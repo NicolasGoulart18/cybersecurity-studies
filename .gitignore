@@ -1,0 +1,36 @@
+# Credenciais e configurações locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+
+# Ambientes e caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+
+# Artefatos grandes de laboratório e capturas brutas
+*.iso
+*.ova
+*.vdi
+*.vmdk
+*.qcow2
+*.pcap
+*.pcapng
+
+# Temporários e configurações do editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.tmp
+*.swp
