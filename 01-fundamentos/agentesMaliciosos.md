@@ -27,3 +27,19 @@
          - 13 Appication level attacks
          - 14 Ataque de codigo
    
+    - Top Vetores
+        - 1 Ameaça em nuve: É uma entre on-demand das capacidades da TI onde dados sensiveis sao armazenados
+        falha em um cliente pode permitir ataque de dados dos outros clientes.
+        - 2 APT: São focados em roubar dados de uma vitima sem ela saber(geralmente organizações espceficias que recebem muito dinheiro para fazer aataques especificos em um ambiente )
+        - 3 Virou ou worms: Principais ameacas nas redes e sao capazes de infectar a rede em segundos
+        - 4 Ransomware: Restrigem o acesse de um arquivo ou programa no PC a demanda de um pagamento online(vc meio que criptografa os arquivos e a pessoa tem que pagar para descriptografar)
+        - 5 Ameaças mobile: Foco em ataques mobile possuem menos controles de segurança
+        - 6 Botnet: é uma larga rede de sistemas comprometidas usados para perfomar varios ataques de rede(DDoS)
+        - 7 Insider attack: É um ataque realizado em uma rede corporativa em um unico computador por uma pessoa confiavel(insider) que foi autorizada a ter acesso a essa rede
+        - 8 Phishing : Envio de email falso dizendo que e um site legtimo e tentar adqurir uma conta
+        - 9 Ameaças web: Roubo de senha, uso de phishing or adquire informações privadas para atrapalhar a segurança
+        - 10 Ameacas IoT: Usam acesso em dispositivos remotos e permitem diversos ataques remotos
+        - 11 Sistema Operacional: Ataque procuram vulnerabilidade em uma SO,instalacao,design ou configuração que podem ser exploradas, ganho de acesso ao sistema(Vulns: Buffler overFlow,bugs no SO, falta de patch)
+        - 12 Misconfiguration attacks: Afetam servidors web,plataforma,database,rede ou framework que podem resultr em acesso ilegal ao sistema
+        - 13 Appication level attacks: Atcantes podem explorar vulnerabilidades nas aplicacoes para ganhar acesso e roubar e manipular dado(ataques: buffer overflow, XSS, SQLI,DDoS,session hijacking,etc)
+        - 14 Ataque de codigo: Explorar configurações default das bibliotecas 
