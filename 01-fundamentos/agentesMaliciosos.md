@@ -43,3 +43,8 @@
         - 12 Misconfiguration attacks: Afetam servidors web,plataforma,database,rede ou framework que podem resultr em acesso ilegal ao sistema
         - 13 Appication level attacks: Atcantes podem explorar vulnerabilidades nas aplicacoes para ganhar acesso e roubar e manipular dado(ataques: buffer overflow, XSS, SQLI,DDoS,session hijacking,etc)
         - 14 Ataque de codigo: Explorar configurações default das bibliotecas 
+
+
+ ### DDoS
+ - Negação de serviço feito pelo BotNet
+    - Caso eu tenho um serviço web e ele nao foi configurado bem, pode ser feito um ataque de botnet com script malicioso causando a negacao de serviço, muita das vezes está relacionado a nao ter limitador de requisições        
