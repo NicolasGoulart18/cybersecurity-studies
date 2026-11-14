@@ -17,7 +17,7 @@ Este repositório acompanha meu aprendizado desde o início, com anotações em 
 
 | Ordem | Curso da base | Situação | Progresso informado |
 | --- | --- | --- | --- |
-| 1 | Cibersegurança: Fundamentos e práticas integradas | Em andamento | 37% |
+| 1 | Cibersegurança: Fundamentos e práticas integradas | Em andamento | 50% |
 | 2 | Cibersegurança: Fundamentos e práticas de redes | Não iniciado | 0% |
 | 3 | Linux para cibersegurança: administração, shell scripting e Kali Linux | Não iniciado | 0% |
 | 4 | Criptografia: Fundamentos, algoritmos e tecnologias emergentes | Não iniciado | 0% |
