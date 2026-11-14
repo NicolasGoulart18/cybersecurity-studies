@@ -13,11 +13,11 @@ Este repositório acompanha meu aprendizado desde o início, com anotações em 
 
 ## Progresso dos cursos
 
-Última atualização: **13/11/2026**. Percentuais informados pela plataforma; não representam domínio de todo o conteúdo.
+Última atualização: **14/11/2026**. Percentuais informados pela plataforma; não representam domínio de todo o conteúdo.
 
 | Ordem | Curso da base | Situação | Progresso informado |
 | --- | --- | --- | --- |
-| 1 | Cibersegurança: Fundamentos e práticas integradas | Em andamento | 22% |
+| 1 | Cibersegurança: Fundamentos e práticas integradas | Em andamento | 37% |
 | 2 | Cibersegurança: Fundamentos e práticas de redes | Não iniciado | 0% |
 | 3 | Linux para cibersegurança: administração, shell scripting e Kali Linux | Não iniciado | 0% |
 | 4 | Criptografia: Fundamentos, algoritmos e tecnologias emergentes | Não iniciado | 0% |
