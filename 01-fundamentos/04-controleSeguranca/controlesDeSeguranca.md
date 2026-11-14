@@ -8,3 +8,8 @@
 ### Objetivo do controle de segurança
     -  Redeuzem o risco de segurança
     - Proteguem ativos contra ameaças
+
+### Tipos de controle
+    - Tecnicos ou logicos
+    - Adminstrativos
+    - Fisicos
