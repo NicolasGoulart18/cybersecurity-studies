@@ -13,3 +13,11 @@
     - Tecnicos ou logicos
     - Adminstrativos
     - Fisicos
+
+### Controles de segurança (entendendo)
+    - Criterios de seleção
+        - Baseados no valor do ativo
+        - Evitam gastar com ativos de pouco valor
+
+    - Fatores do valor do ativo
+        - Custo de substituição     
