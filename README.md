@@ -26,7 +26,7 @@ Este repositório acompanha meu aprendizado desde o início, com anotações em 
 
 | Pasta | Conteúdo |
 | --- | --- |
-| [01-fundamentos](01-fundamentos/README.md) | Conceitos iniciais, anotações, exercícios e dúvidas |
+| [01-fundamentos](01-fundamentos/README.md) | Índice das anotações já registradas sobre princípios, ameaças, agentes e controles de segurança |
 | [02-redes](02-redes/README.md) | Comunicação entre dispositivos, protocolos e análise de rede |
 | [03-linux](03-linux/README.md) | Terminal, arquivos, permissões, processos e scripts |
 | [04-criptografia](04-criptografia/README.md) | Hashes, criptografia, assinaturas e certificados |
@@ -34,17 +34,19 @@ Este repositório acompanha meu aprendizado desde o início, com anotações em 
 | [diario](diario/README.md) | Registro das sessões e próximos passos |
 | [modelos](modelos/README.md) | Modelos para novas anotações, exercícios e laboratórios |
 
-As pastas já estão organizadas para os próximos assuntos. Elas contêm roteiros e modelos; os temas listados **ainda não significam conteúdo estudado**.
+As pastas de redes, Linux e criptografia já estão organizadas para os próximos assuntos. Elas contêm roteiros e modelos; os temas listados **ainda não significam conteúdo estudado**. O [índice de fundamentos](01-fundamentos/README.md) reúne notas que já foram registradas.
 
 ## Como uso este repositório
 
-1. Estudo uma aula e registro o que entendi em [anotações de fundamentos](01-fundamentos/anotacoes.md), ou na pasta do assunto correspondente.
-2. Anoto um exemplo e as dúvidas que surgirem.
-3. Resolvo os exercícios e registro tentativas, resultados e correções.
-4. Quando fizer uma prática, documento o ambiente, os passos e o resultado em `laboratorios/`.
+1. Estudo uma aula e registro o que entendi em um arquivo Markdown na pasta do tema. Para localizar as notas já feitas, uso o [índice de fundamentos](01-fundamentos/README.md).
+2. Anoto exemplos e dúvidas que surgirem durante a explicação.
+3. Resolvo exercícios e registro tentativas, resultados e correções, usando o [modelo de exercício](modelos/exercicio.md) quando necessário.
+4. Quando faço uma prática, documento ambiente, passos, evidências e resultado em [laboratórios](laboratorios/README.md), diferenciando práticas planejadas das realizadas.
 5. Atualizo o [diário](diario/README.md) e a tabela de progresso ao encerrar a sessão.
 
-Para criar uma nova nota, copio [o modelo de anotação](modelos/anotacao.md) para a pasta do assunto e uso um nome descritivo, como `confidencialidade-integridade-disponibilidade.md`.
+**Tipos de registro:** as notas de conteúdo são **teoria**; exercícios são tentativas e resoluções; laboratórios são práticas com procedimentos e resultados. Uma explicação teórica não deve ser apresentada como teste ou laboratório executado.
+
+Para criar uma nova nota, copio [o modelo de anotação](modelos/anotacao.md) para a pasta do assunto e uso um nome descritivo, como `confidencialidade-integridade-disponibilidade.md`, se o tema ainda não estiver coberto por outra nota.
 
 ### Exemplos de mensagens de commit
 
@@ -54,7 +56,7 @@ Para criar uma nova nota, copio [o modelo de anotação](modelos/anotacao.md) pa
 
 ## Próximo passo
 
-Continuar **Cibersegurança: Fundamentos e práticas integradas** e preencher a primeira anotação com o conteúdo realmente estudado.
+Continuar **Cibersegurança: Fundamentos e práticas integradas**, revisar os conteúdos já registrados no [índice de fundamentos](01-fundamentos/README.md) e documentar novos aprendizados, exercícios e práticas conforme forem realizados.
 
 ## Referências e uso dos materiais
 
