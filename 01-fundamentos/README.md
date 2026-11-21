@@ -34,6 +34,7 @@ Este é o **índice das anotações teóricas** de fundamentos. Os links abaixo 
 | --- | --- |
 | [Controles de segurança](04-controleSeguranca/controlesDeSeguranca.md) | Controles físicos, técnicos e administrativos; classificação por função. |
 | [Controles dissuasivos, detectivos e preventivos](04-controleSeguranca/dissuasivo.md) | Objetivos, diferenças e exemplos de controles. |
+| [Defesa em profundidade — segurança em camadas](04-controleSeguranca/defesa-em-profundidade.md) | Superfície de ataque, camadas de proteção, resposta a incidentes, backups e recuperação. |
 
 ## Como registrar o aprendizado
 
